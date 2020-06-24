@@ -1,7 +1,6 @@
 # burger_house
 
-A new Flutter project.
-
+This is the design of burger store.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
