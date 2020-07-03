@@ -1,6 +1,8 @@
 # burger_house
 
 This is the design of burger store.
+
+<img src="Screenshots/SS1.jpg">
 ## Getting Started
 
 This project is a starting point for a Flutter application.
